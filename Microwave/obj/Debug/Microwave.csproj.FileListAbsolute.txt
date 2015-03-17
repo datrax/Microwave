@@ -1,0 +1,13 @@
+C:\Users\datrax\Documents\GitHub\Microwave\Microwave\bin\Debug\Microwave.exe.config
+C:\Users\datrax\Documents\GitHub\Microwave\Microwave\obj\Debug\Microwave.csprojResolveAssemblyReference.cache
+C:\Users\datrax\Documents\GitHub\Microwave\Microwave\obj\Debug\MainWindow.baml
+C:\Users\datrax\Documents\GitHub\Microwave\Microwave\obj\Debug\MainWindow.g.cs
+C:\Users\datrax\Documents\GitHub\Microwave\Microwave\obj\Debug\App.g.cs
+C:\Users\datrax\Documents\GitHub\Microwave\Microwave\obj\Debug\Microwave_MarkupCompile.cache
+C:\Users\datrax\Documents\GitHub\Microwave\Microwave\obj\Debug\Microwave.g.resources
+C:\Users\datrax\Documents\GitHub\Microwave\Microwave\obj\Debug\Microwave.Properties.Resources.resources
+C:\Users\datrax\Documents\GitHub\Microwave\Microwave\obj\Debug\Microwave.csproj.GenerateResource.Cache
+C:\Users\datrax\Documents\GitHub\Microwave\Microwave\bin\Debug\Microwave.exe
+C:\Users\datrax\Documents\GitHub\Microwave\Microwave\bin\Debug\Microwave.pdb
+C:\Users\datrax\Documents\GitHub\Microwave\Microwave\obj\Debug\Microwave.exe
+C:\Users\datrax\Documents\GitHub\Microwave\Microwave\obj\Debug\Microwave.pdb
